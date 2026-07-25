@@ -2,6 +2,8 @@
 
 A simple Python application that generates a QR code from any user-provided text or URL using the `qrcode` library. The generated QR code is saved as an image (`qrcode.png`) in the project directory.
 
+---
+
 ## Features
 
 - Generate QR codes from any text or URL
@@ -9,11 +11,15 @@ A simple Python application that generates a QR code from any user-provided text
 - Simple command-line interface
 - Lightweight and beginner-friendly
 
+ ---
+
 ## Technologies Used
 
 - Python 3
 - qrcode
 - Pillow (PIL)
+
+---
 
 ## Installation
 
@@ -35,6 +41,8 @@ cd Qr-Code-Generator
 pip install qrcode[pil]
 ```
 
+---
+
 ## Usage
 
 Run the program:
@@ -55,6 +63,8 @@ The program will generate and save:
 qrcode.png
 ```
 
+---
+
 ## Project Structure
 
 ```
@@ -63,6 +73,8 @@ QR-Code-Generator/
 │── qrcode.png        # Generated after running the program
 └── README.md
 ```
+
+---
 
 ## Example
 
@@ -84,6 +96,8 @@ QR Code was generated!
 Scanning the generated QR code displays:
 
 ![Qr Code](qrcode.png)
+
+---
 
 ## Future Improvements
 
