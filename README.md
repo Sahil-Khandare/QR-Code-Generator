@@ -20,13 +20,13 @@ A simple Python application that generates a QR code from any user-provided text
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/qr-code-generator.git
+git clone https://github.com/your-username/Qr-Code-Generator.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd qr-code-generator
+cd Qr-Code-Generator
 ```
 
 3. Install the required package:
@@ -40,7 +40,7 @@ pip install qrcode[pil]
 Run the program:
 
 ```bash
-python qr_generator.py
+python QrGenrator.py
 ```
 
 Enter any text or URL when prompted:
@@ -70,7 +70,9 @@ QR-Code-Generator/
 
 ```
 Enter any text:
-Hello, World!
+Hello!! I'm Sahil Khandare
+" Every expert was once a begineer."
+I enjoy learning AI, Machine Learning and creating practical Python applications.
 ```
 
 **Output**
@@ -81,18 +83,24 @@ QR Code was generated!
 
 Scanning the generated QR code displays:
 
-```
-Hello, World!
-```
+![Qr Code](qrcode.png)
 
 ## Future Improvements
 
 - Custom QR code colors
 - Custom file name option
 - QR code size adjustment
-- GUI using Tkinter or Streamlit
 - Logo embedding in QR code
 
-## License
+---
 
-This project is open source and available under the MIT License.
+## Author
+
+**Sahil Khandare**
+
+Engineering Student | AI & Machine Learning Enthusiast
+
+---
+
+## ⭐ If you found this project useful, consider giving the repository a star!
+
